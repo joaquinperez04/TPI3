@@ -1,0 +1,17 @@
+Consultar turno: Brindar información acerca de los horarios disponibles. Si el cliente no tiene turno, informar sobre la disponibilidad para una atención inmediata.
+
+Consultar historial del vehículo: Brindar información acerca de los antecedentes de revisiones anteriores y sus respectivos resultados, identificando también si es la primera o segunda verificación del vehículo.
+
+Registrar datos del cliente: Registrar datos personales de un nuevo cliente que realiza por primera vez la VTV.
+
+Consultar datos del cliente: Brindar información acerca del titular del vehículo…??
+
+Registrar cobro: Calcular el monto a cobrar (si es la primera inspección) y registrar el pago en efectivo, para posteriormente emitir y entregar el recibo al cliente.
+
+Registrar mediciones: Registrar los datos del frenómetro y del banco de suspensión en la primera sección de la inspección, los datos de alineación en la segunda sección y documentar cualquier medición adicional.
+
+Registrar defectos visuales: Realizar y registrar un control visual exhaustivo del vehículo que se encuentra en la fosa. Clasificar cualquier defecto identificado (leve o grave).
+
+Consultar mediciones: Revisar los resultados de todas las mediciones registradas anteriormente, confirmando la precisión de los datos anotados durante la inspección y validando las mediciones según las normativas vigentes.
+
+Generar informe: Generar informe con el resultado total de la inspección, aclarando los defectos, si es que los tiene.
