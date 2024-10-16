@@ -1,0 +1,35 @@
+Listado de objetivos:
+
+Consultar Turno: Brindar información acerca de los horarios disponibles. Si el cliente no tiene turno, informar sobre la disponibilidad para una atención inmediata.
+
+Consultar Datos del Cliente: Brindar información acerca del titular del vehículo para la confirmación de la identidad del cliente.
+
+Registrar Datos del Cliente: Registrar datos personales de un nuevo cliente que realiza por primera vez la VTV.
+
+Registrar Vehículo: Registrar los datos de un nuevo vehículo que ingresa por primera vez en la VTV, señalando el titular, el modelo del vehículo, la patente, el año de fabricación y verificando la documentación del mismo.
+
+Consultar Historial del Vehículo: Brindar información acerca de los antecedentes de revisiones anteriores y sus respectivos resultados, identificando también si es la primera o segunda verificación del vehículo.
+
+Registrar Cobro: Calcular el monto a cobrar (si es la primera inspección) y registrar el pago en efectivo, para posteriormente emitir y entregar el recibo al cliente.
+
+Registrar Comienzo de Revisión: Registra el inicio de la inspección en el sistema, informando y documentando el ingreso del vehículo a la línea de inspección. Con la fecha de ingreso, la hora y el vehículo que ingresa.
+
+Registrar Mediciones: Registrar los datos del frenómetro y del banco de suspensión en la primera sección de la inspección, los datos de alineación en la segunda sección y documentar cualquier medición adicional.
+
+Registrar Defectos Visuales: Realizar y registrar un control visual exhaustivo del vehículo que se encuentra en la fosa. Clasificar cualquier defecto identificado (leve o grave).
+
+Consultar Datos de la Revisión: Revisar los resultados de todas las mediciones registradas anteriormente, confirmando la precisión de los datos anotados durante la inspección y validando las mediciones según las normativas vigentes.
+
+Registrar Finalización de Revisión: Registrar la finalización de la inspección con su respectivo resultado, confirmando las mediciones y controles realizados para posteriormente emitir un informe con dicha información.
+
+Actualizar Estado Oblea: Modificar el estado de la oblea para su validación y uso con una duración de 1 año.
+
+Registrar Oblea: Registrar los datos de la oblea, como el número de oblea, su fecha de emisión y respectivo vencimiento.
+
+Cancelar Oblea: Realizar la anulación de la oblea registrando el motivo de cancelación, la fecha y hora de la misma.
+
+Registrar Empleado: Registrar un nuevo empleado, asignándole un rol y registrando sus datos personales.
+
+Registrar Tarifas: Registrar las tarifas para las diferentes revisiones y distintos tipos de vehículos.
+
+Actualizar Tarifas: Realizar la revisión, el control y la actualización periódica de las tarifas.
